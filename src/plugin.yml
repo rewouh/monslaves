@@ -1,0 +1,8 @@
+name: Monslaves
+version: 1.0
+author: Rewu
+main: me.rewu.monslaves.Main
+api-version: 1.19
+commands:
+  mons:
+    description: Head command for the plugin Monslaves by Rewu.
